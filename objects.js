@@ -4,4 +4,4 @@ var meals = {
   dinner: "avocado"
 };
 
-console.log(meals.lunch)
+console.log(meals.lunch);
